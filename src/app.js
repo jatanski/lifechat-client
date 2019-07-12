@@ -1,5 +1,3 @@
-import io from "../node_modules/socket.io-client";
-
 const nickForm = document.querySelector("#nick-form");
 const nickInput = document.querySelector("#nickname");
 
