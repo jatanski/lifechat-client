@@ -1,0 +1,1 @@
+lifechat-client
